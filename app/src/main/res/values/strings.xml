@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyMewsic</string>
+    <string name="recently_played">Recently Played</string>
+    <string name="recently_played_description">This activity would show recently played songs but also menu to choose from different button below" </string>
+    <string name="artists">My artists</string>
+    <string name="artists_description">This activity would list all the artists which you have available with search button</string>
+    <string name="albums">My albums</string>
+    <string name="albums_description">This activity would list all the albums which you have available with search button</string>
+    <string name="library">Global library</string>
+    <string name="library_description">This activity would list all the items from global list of availability to search and possibility to buy it when payment button is clicked</string>
+    <string name="payment">payment</string>
+    <string name="payment_description">The PayPal Mobile Payment Libraries (MPL) provides a secure, extensible, and scalable way to add PayPal functionality to your native mobile apps. Using MPL, you place a Pay with PayPal button in your apps payment flow</string>
+    <string name="cur">currently playing</string>
+    <string name="current_description">currently playing song with artist and album name</string>
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="login">Login</string>
+    <string name="login_description">Login page with login button</string>
+</resources>
